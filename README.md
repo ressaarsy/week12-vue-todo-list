@@ -98,7 +98,7 @@ Aplikasi mencakup:
 
 **Setelah Menambahkan Tugas**
 
-![Screenshot Tambah](screenshots/tambah.png)
+![Screenshot Tambah](screenshots/Tambah.png)
 
 **Mode Edit Tugas**
 
