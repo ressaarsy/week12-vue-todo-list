@@ -146,4 +146,5 @@ Menampilkan seluruh item tugas secara dinamis:
 
 Aplikasi To-Do List ini berhasil dibuat sesuai instruksi tugas dengan tambahan fitur **Edit Tugas** dan tampilan UI yang modern serta bersih. Seluruh fungsi berjalan secara reaktif berkat pemanfaatan konsep dasar Vue.js.
 
+
 ---
